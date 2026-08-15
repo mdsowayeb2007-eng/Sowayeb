@@ -1,0 +1,18 @@
+{
+  "short_name": "Flag Arena",
+  "name": "Flag Arena - 2D Flag Battle Game",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230f172a'/><text x='50%' y='65%' font-size='60' text-anchor='middle'>🚩</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Browser-based 2D Physics Flag Battle game with custom arenas and statistics."
+}

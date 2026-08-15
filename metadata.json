@@ -1,0 +1,6 @@
+{
+  "name": "Flag Arena",
+  "description": "Browser-based 2D Physics Flag Battle game with custom arenas, game modes, voting, statistics, sound effects, and replays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
